@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "characters": [
+          {
+             "id": 0,
+             "name": "Kamisato Ayaka",
+             "logo": "",
+             "image": "",
+             "color": "",
+             "info": [
+                 "id":0,
+                 "star": 5
+                 "name": "Kamisato Ayaka",
+                 "nation": "Inazuma",
+                 "weapon": "Sword",
+                 "constellation": "Grus Nivis",
+                 "introduction": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Dignified and elegant, wise and determined.",
+                 "normal_attack": "Kamisato Art: Kabuki",
+                 "video": ""
+             ]
+          },
+          
+          {
+             "id": 1,
+             "name": "Hu Tao",
+             "logo": "",
+             "image": "",
+             "color": "",
+             "info": [
+                 "id":0,
+                 "star": 5
+                 "name": "Hu Tao",
+                 "nation": "Liyue",
+                 "weapon": "Polearm",
+                 "constellation": "Papilio Charontis",
+                 "introduction": "Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
+                 "normal_attack": "Secret Spear of Wangsheng",
+                 "video": ""
+             ]
+          },
+          {
+             "id": 2,
+             "name": "Kaedehara Kazuha",
+             "logo": "",
+             "image": "",
+             "color": "",
+             "info": [
+                 "id":0,
+                 "star": 5
+                 "name": "Kaedehara Kazuha",
+                 "nation": "Inazuma",
+                 "weapon": "Sword",
+                 "constellation": "Acer Palmatum",
+                 "introduction": "A wandering samurai from Inazuma with a modest and gentle personality.",
+                 "normal_attack": "Garyuu Bladework",
+                 "video": ""
+             ]
+          },
+          {
+             "id": 3,
+             "name": "Fischi",
+             "logo": "",
+             "image": "",
+             "color": "",
+             "info": [
+                 "id": 0,
+                 "star": 4
+                 "name": "Fischi",
+                 "nation": "Mondstadt",
+                 "weapon": "Bow",
+                 "constellation": "Corvus",
+                 "introduction": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild.",
+                 "normal_attack": "Bolts of Downfall",
+                 "video": ""
+             ]
+          },
+          {
+             "id": 4,
+             "name": "Tartaglia",
+             "logo": "",
+             "image": "",
+             "color": "",
+             "info": [
+                 "id":0,
+                 "star": 5,
+                 "name": "Tartaglia",
+                 "nation": "Snezhnaya",
+                 "weapon": "Bow",
+                 "constellation": "Monoceros Caeli ",
+                 "introduction": "Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.",
+                 "normal_attack": "Cutting Torrent",
+                 "video": ""
+             ]
+          },
+          {
+             "id": 5,
+             "name": "Ningguang",
+             "logo": "",
+             "image": "",
+             "color": "",
+             "info": [
+                 "id":0"
+                 "star": 4,
+                 "name": "Ningguang",
+                 "nation": "Liyue",
+                 "weapon": "Catalyst",
+                 "constellation": "Opus Aequilibrium",
+                 "introduction": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile.",
+                 "normal_attack": "Sparkling Scatter",
+                 "video": ""
+             ]
+          },
+          
+        ],
+        "weapons": [
+            "id": 0,
+            
+        ],
+        "artifacts": [
+            "id": 0,
+            
+        ]
+    }
+    
+    
+   
+]
