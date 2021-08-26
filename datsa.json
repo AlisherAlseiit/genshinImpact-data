@@ -1,128 +1,145 @@
-[
-    {
-        "id": 0,
-        "characters": [
-          {
-             "id": 0,
-             "name": "Kamisato Ayaka",
-             "logo": "",
-             "image": "",
-             "color": "",
-             "info": [
-                 "id":0,
-                 "star": 5
-                 "name": "Kamisato Ayaka",
-                 "nation": "Inazuma",
-                 "weapon": "Sword",
-                 "constellation": "Grus Nivis",
-                 "introduction": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Dignified and elegant, wise and determined.",
-                 "normal_attack": "Kamisato Art: Kabuki",
-                 "video": ""
-             ]
-          },
-          
-          {
-             "id": 1,
-             "name": "Hu Tao",
-             "logo": "",
-             "image": "",
-             "color": "",
-             "info": [
-                 "id":0,
-                 "star": 5
-                 "name": "Hu Tao",
-                 "nation": "Liyue",
-                 "weapon": "Polearm",
-                 "constellation": "Papilio Charontis",
-                 "introduction": "Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
-                 "normal_attack": "Secret Spear of Wangsheng",
-                 "video": ""
-             ]
-          },
-          {
-             "id": 2,
-             "name": "Kaedehara Kazuha",
-             "logo": "",
-             "image": "",
-             "color": "",
-             "info": [
-                 "id":0,
-                 "star": 5
-                 "name": "Kaedehara Kazuha",
-                 "nation": "Inazuma",
-                 "weapon": "Sword",
-                 "constellation": "Acer Palmatum",
-                 "introduction": "A wandering samurai from Inazuma with a modest and gentle personality.",
-                 "normal_attack": "Garyuu Bladework",
-                 "video": ""
-             ]
-          },
-          {
-             "id": 3,
-             "name": "Fischi",
-             "logo": "",
-             "image": "",
-             "color": "",
-             "info": [
-                 "id": 0,
-                 "star": 4
-                 "name": "Fischi",
-                 "nation": "Mondstadt",
-                 "weapon": "Bow",
-                 "constellation": "Corvus",
-                 "introduction": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild.",
-                 "normal_attack": "Bolts of Downfall",
-                 "video": ""
-             ]
-          },
-          {
-             "id": 4,
-             "name": "Tartaglia",
-             "logo": "",
-             "image": "",
-             "color": "",
-             "info": [
-                 "id":0,
-                 "star": 5,
-                 "name": "Tartaglia",
-                 "nation": "Snezhnaya",
-                 "weapon": "Bow",
-                 "constellation": "Monoceros Caeli ",
-                 "introduction": "Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.",
-                 "normal_attack": "Cutting Torrent",
-                 "video": ""
-             ]
-          },
-          {
-             "id": 5,
-             "name": "Ningguang",
-             "logo": "",
-             "image": "",
-             "color": "",
-             "info": [
-                 "id":0"
-                 "star": 4,
-                 "name": "Ningguang",
-                 "nation": "Liyue",
-                 "weapon": "Catalyst",
-                 "constellation": "Opus Aequilibrium",
-                 "introduction": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile.",
-                 "normal_attack": "Sparkling Scatter",
-                 "video": ""
-             ]
-          },
-          
-        ],
-        "weapons": [
+[{
+    "id": 0,
+    "characters": [
+        {
             "id": 0,
+            "name": "Kamisato Ayaka",
+            "logo": "Pyro.png",
+            "image": "Hu-Tao.png",
+            "color": {
+                "red": 131,
+                "green": 199,
+                "blue": 217
+            },
+            "info": {
+                "id": 0,
+                "star": 5,
+                "name": "Kamisato Ayaka",
+                "nation": "Inazuma",
+                "weapon": "Sword",
+                "constellation": "Grus Nivis",
+                "introduction": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Dignified and elegant, wise and determined.",
+                "normal_attack": "Kamisato Art: Kabuki",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+            }
             
-        ],
-        "artifacts": [
-            "id": 0,
-            
-        ]
-    }
+        },
+        
+        {
+            "id": 1,
+            "name": "Hu Tao",
+            "logo": "Pyro.png",
+            "image": "Hu-Tao.png",
+            "color": {
+                "red": 175,
+                "green": 96,
+                "blue": 71
+            },
+            "info": {
+                "id": 0,
+                "star": 5,
+                "name": "Hu Tao",
+                "nation": "Liyue",
+                "weapon": "Polearm",
+                "constellation": "Papilio Charontis",
+                "introduction": "Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
+                "normal_attack": "Secret Spear of Wangsheng",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Kaedehara Kazuha",
+            "logo": "Pyro.png",
+            "image": "Hu-Tao.png",
+            "color": {
+                "red": 185,
+                "green": 242,
+                "blue": 209
+            },
+            "info": {
+                "id": 0,
+                "star": 5,
+                "name": "Kaedehara Kazuha",
+                "nation": "Inazuma",
+                "weapon": "Sword",
+                "constellation": "Acer Palmatum",
+                "introduction": "A wandering samurai from Inazuma with a modest and gentle personality.",
+                "normal_attack": "Garyuu Bladework",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Fischi",
+            "logo": "Pyro.png",
+            "image": "Hu-Tao.png",
+            "color": {
+                "red": 142,
+                "green": 98,
+                "blue": 193
+            },
+            "info": {
+                "id": 0,
+                "star": 4,
+                "name": "Fischi",
+                "nation": "Mondstadt",
+                "weapon": "Bow",
+                "constellation": "Corvus",
+                "introduction": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild.",
+                "normal_attack": "Bolts of Downfall",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Tartaglia",
+            "logo": "Pyro.png",
+            "image": "Hu-Tao.png",
+            "color": {
+                "red": 70,
+                "green": 111,
+                "blue": 179
+            },
+            "info": {
+                "id": 0,
+                "star": 5,
+                "name": "Tartaglia",
+                "nation": "Snezhnaya",
+                "weapon": "Bow",
+                "constellation": "Monoceros Caeli ",
+                "introduction": "Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.",
+                "normal_attack": "Cutting Torrent",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Ningguang",
+            "logo": "Pyro.png",
+            "image": "Hu-Tao.png",
+            "color": {
+                "red": 177,
+                "green": 146,
+                "blue": 81
+            },
+            "info": {
+                "id": 0,
+                "star": 4,
+                "name": "Ningguang",
+                "nation": "Liyue",
+                "weapon": "Catalyst",
+                "constellation": "Opus Aequilibrium",
+                "introduction": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile.",
+                "normal_attack": "Sparkling Scatter",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+            }
+        }
+        
+    ]
+    
+}
     
     
-   
+    
 ]
