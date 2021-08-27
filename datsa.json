@@ -14,7 +14,7 @@
             "info": {
                 "id": 0,
                 "star": 5,
-                "image": "",
+                "image": "Kamisato2.png",
                 "name": "Kamisato Ayaka",
                 "nation": "Inazuma",
                 "weapon": "Sword",
@@ -39,7 +39,7 @@
             "info": {
                 "id": 0,
                 "star": 5,
-                "image": "",
+                "image": "HuTao2.png",
                 "name": "Hu Tao",
                 "nation": "Liyue",
                 "weapon": "Polearm",
@@ -62,7 +62,7 @@
             "info": {
                 "id": 0,
                 "star": 5,
-                "image": "",
+                "image": "Kazuha2.png",
                 "name": "Kaedehara Kazuha",
                 "nation": "Inazuma",
                 "weapon": "Sword",
@@ -85,7 +85,7 @@
             "info": {
                 "id": 0,
                 "star": 4,
-                "image": "",
+                "image": "Fischi2.png",
                 "name": "Fischi",
                 "nation": "Mondstadt",
                 "weapon": "Bow",
@@ -108,7 +108,7 @@
             "info": {
                 "id": 0,
                 "star": 5,
-                "image": "",
+                "image": "Tartaglia2.png",
                 "name": "Tartaglia",
                 "nation": "Snezhnaya",
                 "weapon": "Bow",
@@ -131,7 +131,7 @@
             "info": {
                 "id": 0,
                 "star": 4,
-                "image": "",
+                "image": "Ningguang2.png",
                 "name": "Ningguang",
                 "nation": "Liyue",
                 "weapon": "Catalyst",
