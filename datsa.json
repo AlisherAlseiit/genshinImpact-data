@@ -5,7 +5,7 @@
             "id": 0,
             "name": "Kamisato Ayaka",
             "logo": "Pyro.png",
-            "image": "Hu-Tao.png",
+            "image": "Kamisato.png",
             "color": {
                 "red": 131,
                 "green": 199,
@@ -30,7 +30,7 @@
             "id": 1,
             "name": "Hu Tao",
             "logo": "Pyro.png",
-            "image": "Hu-Tao.png",
+            "image": "HuTao.png",
             "color": {
                 "red": 175,
                 "green": 96,
@@ -53,7 +53,7 @@
             "id": 2,
             "name": "Kaedehara Kazuha",
             "logo": "Pyro.png",
-            "image": "Hu-Tao.png",
+            "image": "Kaedehara.png",
             "color": {
                 "red": 185,
                 "green": 242,
@@ -76,7 +76,7 @@
             "id": 3,
             "name": "Fischi",
             "logo": "Pyro.png",
-            "image": "Hu-Tao.png",
+            "image": "Fischi.png",
             "color": {
                 "red": 142,
                 "green": 98,
@@ -99,7 +99,7 @@
             "id": 4,
             "name": "Tartaglia",
             "logo": "Pyro.png",
-            "image": "Hu-Tao.png",
+            "image": "Tartaglia.png",
             "color": {
                 "red": 70,
                 "green": 111,
@@ -122,7 +122,7 @@
             "id": 5,
             "name": "Ningguang",
             "logo": "Pyro.png",
-            "image": "Hu-Tao.png",
+            "image": "Ningguang.png",
             "color": {
                 "red": 177,
                 "green": 146,
