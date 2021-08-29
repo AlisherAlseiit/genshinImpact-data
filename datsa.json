@@ -148,28 +148,30 @@
 			},
 			{
 				"id": 6,
-				"name": "Albedo",
-				"logo": "Geo.png",
-				"image": "Albedo.png",
+				"name": "Eula",
+				"logo": "Cryo.png",
+				"image": "Eula.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 131,
+					"green": 199,
+					"blue": 217
 				},
 				"info": {
 					"id": 0,
 					"star": 5,
-					"image": "Albedo2.png",
-					"logo": "Geo.png",
-					"name": "Albedo",
+					"image": "Eula2.png",
+					"logo": "Cryo.png",
+					"name": "Eula",
 					"nation": "Mondstadt",
-					"weapon": "Sword",
-					"constellation": "Princeps Cretaceus",
-					"introduction": "Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius.",
-					"normal_attack": "Favonius Bladework - Weiss",
-					"video": "EgnqSKptay"
+					"weapon": "Bow",
+					"constellation": "Aphros Delos",
+					"introduction": "A rebellious descendant of the old aristocracy who is always out on the battlefield.",
+					"normal_attack": "Favonius Bladework - Edel",
+					"video": "fFHfbH8UrFE"
 				}
+
 			},
+
 			{
 				"id": 7,
 				"name": "Amber",
@@ -242,32 +244,33 @@
 					"video": "ST5v7-C3iDk"
 				}
 			},
-			       {
-				"id": 14,
-				"name": "Eula",
-				"logo": "Cryo.png",
-				"image": "Eula.png",
+
+			{
+				"id": 10,
+				"name": "Albedo",
+				"logo": "Geo.png",
+				"image": "Albedo.png",
 				"color": {
-					"red": 131,
-					"green": 199,
-					"blue": 217
+					"red": 177,
+					"green": 146,
+					"blue": 81
 				},
 				"info": {
 					"id": 0,
 					"star": 5,
-					"image": "Eula2.png",
-					"logo": "Cryo.png",
-					"name": "Eula",
+					"image": "Albedo2.png",
+					"logo": "Geo.png",
+					"name": "Albedo",
 					"nation": "Mondstadt",
-					"weapon": "Bow",
-					"constellation": "Aphros Delos",
-					"introduction": "A rebellious descendant of the old aristocracy who is always out on the battlefield.",
-					"normal_attack": "Favonius Bladework - Edel",
-					"video": "fFHfbH8UrFE"
+					"weapon": "Sword",
+					"constellation": "Princeps Cretaceus",
+					"introduction": "Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius.",
+					"normal_attack": "Favonius Bladework - Weiss",
+					"video": "EgnqSKptay"
 				}
-				
 			},
-			
+
+
 			{
 				"id": 11,
 				"name": "Chongyun",
@@ -293,7 +296,7 @@
 				}
 			},
 			{
-				"id": 13,
+				"id": 12,
 				"name": "Diona",
 				"logo": "Cryo.png",
 				"image": "Diona.png",
@@ -316,9 +319,9 @@
 					"video": "9cti_Dwd3Hc"
 				}
 			},
-			
-			       {
-				"id": 14,
+
+			{
+				"id": 13,
 				"name": "Bennett",
 				"logo": "Pyro.png",
 				"image": "Bennett.png",
