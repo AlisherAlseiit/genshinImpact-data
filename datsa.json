@@ -176,9 +176,9 @@
 				"logo": "Pyro.png",
 				"image": "Amber.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 175,
+					"green": 96,
+					"blue": 71
 				},
 				"info": {
 					"id": 0,
@@ -200,9 +200,9 @@
 				"logo": "Hydro.png",
 				"image": "Barbara.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 70,
+					"green": 111,
+					"blue": 179
 				},
 				"info": {
 					"id": 0,
@@ -224,9 +224,9 @@
 				"logo": "Electro.png",
 				"image": "Beidou.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 142,
+					"green": 98,
+					"blue": 193
 				},
 				"info": {
 					"id": 0,
@@ -242,39 +242,41 @@
 					"video": "ST5v7-C3iDk"
 				}
 			},
-			{
-				"id": 10,
-				"name": "Bennett",
-				"logo": "Pyro.png",
-				"image": "Bennett.png",
+			       {
+				"id": 14,
+				"name": "Eula",
+				"logo": "Cryo.png",
+				"image": "Eula.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 131,
+					"green": 199,
+					"blue": 217
 				},
 				"info": {
 					"id": 0,
-					"star": 4,
-					"image": "Bennett2.png",
-					"logo": "Pyro.png",
-					"name": "Bennett",
+					"star": 5,
+					"image": "Eula2.png",
+					"logo": "Cryo.png",
+					"name": "Eula",
 					"nation": "Mondstadt",
-					"weapon": "Claymore",
-					"constellation": "Rota Calamitas",
-					"introduction": "One of the few young adventurers of the Mondstadt Adventurers' Guild, he is always plagued with inexplicable bad luck.",
-					"normal_attack": "Strike of Fortune",
-					"video": "HRksKER0Ies"
+					"weapon": "Bow",
+					"constellation": "Aphros Delos",
+					"introduction": "A rebellious descendant of the old aristocracy who is always out on the battlefield.",
+					"normal_attack": "Favonius Bladework - Edel",
+					"video": "fFHfbH8UrFE"
 				}
+				
 			},
+			
 			{
 				"id": 11,
 				"name": "Chongyun",
 				"logo": "Cryo.png",
 				"image": "Chongyun.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 131,
+					"green": 199,
+					"blue": 217
 				},
 				"info": {
 					"id": 0,
@@ -296,9 +298,9 @@
 				"logo": "Cryo.png",
 				"image": "Diona.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 131,
+					"green": 199,
+					"blue": 217
 				},
 				"info": {
 					"id": 0,
@@ -314,28 +316,29 @@
 					"video": "9cti_Dwd3Hc"
 				}
 			},
-			{
+			
+			       {
 				"id": 14,
-				"name": "Eula",
-				"logo": "Cryo.png",
-				"image": "Eula.png",
+				"name": "Bennett",
+				"logo": "Pyro.png",
+				"image": "Bennett.png",
 				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
+					"red": 175,
+					"green": 96,
+					"blue": 71
 				},
 				"info": {
 					"id": 0,
-					"star": 5,
-					"image": "Eula2.png",
-					"logo": "Cryo.png",
-					"name": "Eula",
+					"star": 4,
+					"image": "Bennett2.png",
+					"logo": "Pyro.png",
+					"name": "Bennett",
 					"nation": "Mondstadt",
-					"weapon": "Bow",
-					"constellation": "Aphros Delos",
-					"introduction": "A rebellious descendant of the old aristocracy who is always out on the battlefield.",
-					"normal_attack": "Favonius Bladework - Edel",
-					"video": "fFHfbH8UrFE"
+					"weapon": "Claymore",
+					"constellation": "Rota Calamitas",
+					"introduction": "One of the few young adventurers of the Mondstadt Adventurers' Guild, he is always plagued with inexplicable bad luck.",
+					"normal_attack": "Strike of Fortune",
+					"video": "HRksKER0Ies"
 				}
 			}
 		]
