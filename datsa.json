@@ -1,157 +1,371 @@
 [{
-    "id": 0,
-    "characters": [
-        {
-            "id": 0,
-            "name": "Kamisato Ayaka",
-            "logo": "Cryo.png",
-            "image": "Kamisato.png",
-            "color": {
-                "red": 131,
-                "green": 199,
-                "blue": 217
-            },
-            "info": {
-                "id": 0,
-                "star": 5,
-                "image": "Kamisato2.png",
-                "logo": "Cryo.png",
-                "name": "Kamisato Ayaka",
-                "nation": "Inazuma",
-                "weapon": "Sword",
-                "constellation": "Grus Nivis",
-                "introduction": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Dignified and elegant, wise and determined.",
-                "normal_attack": "Kamisato Art: Kabuki",
-                "video": "vsCO7C416bs"
-            }
-            
-        },
-        
-        {
-            "id": 1,
-            "name": "Hu Tao",
-            "logo": "Pyro.png",
-            "image": "HuTao.png",
-            "color": {
-                "red": 175,
-                "green": 96,
-                "blue": 71
-            },
-            "info": {
-                "id": 0,
-                "star": 5,
-                "image": "HuTao2.png",
-                "logo": "Pyro.png",
-                "name": "Hu Tao",
-                "nation": "Liyue",
-                "weapon": "Polearm",
-                "constellation": "Papilio Charontis",
-                "introduction": "Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
-                "normal_attack": "Secret Spear of Wangsheng",
-                "video": "qrH9vMZBwAk"
-            }
-        },
-        {
-            "id": 2,
-            "name": "Kaedehara Kazuha",
-            "logo": "Anemo.png",
-            "image": "Kaedehara.png",
-            "color": {
-                "red": 185,
-                "green": 242,
-                "blue": 209
-            },
-            "info": {
-                "id": 0,
-                "star": 5,
-                "image": "Kazuha2.png",
-                "logo": "Anemo.png",
-                "name": "Kaedehara Kazuha",
-                "nation": "Inazuma",
-                "weapon": "Sword",
-                "constellation": "Acer Palmatum",
-                "introduction": "A wandering samurai from Inazuma with a modest and gentle personality.",
-                "normal_attack": "Garyuu Bladework",
-                "video": "ST5v7-C3iDk"
-            }
-        },
-        {
-            "id": 3,
-            "name": "Fischi",
-            "logo": "Electro.png",
-            "image": "Fischi.png",
-            "color": {
-                "red": 142,
-                "green": 98,
-                "blue": 193
-            },
-            "info": {
-                "id": 0,
-                "star": 4,
-                "image": "Fischi2.png",
-                "logo": "Electro.png",
-                "name": "Fischi",
-                "nation": "Mondstadt",
-                "weapon": "Bow",
-                "constellation": "Corvus",
-                "introduction": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild.",
-                "normal_attack": "Bolts of Downfall",
-                "video": "3VtfVPCbNzk"
-            }
-        },
-        {
-            "id": 4,
-            "name": "Tartaglia",
-            "logo": "Hydro.png",
-            "image": "Tartaglia.png",
-            "color": {
-                "red": 70,
-                "green": 111,
-                "blue": 179
-            },
-            "info": {
-                "id": 0,
-                "star": 5,
-                "image": "Tartaglia2.png",
-                "logo": "Hydro.png",
-                "name": "Tartaglia",
-                "nation": "Snezhnaya",
-                "weapon": "Bow",
-                "constellation": "Monoceros Caeli ",
-                "introduction": "Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.",
-                "normal_attack": "Cutting Torrent",
-                "video": "3f2-EANyrNM"
-            }
-        },
-        {
-            "id": 5,
-            "name": "Ningguang",
-            "logo": "Geo.png",
-            "image": "Ningguang.png",
-            "color": {
-                "red": 177,
-                "green": 146,
-                "blue": 81
-            },
-            "info": {
-                "id": 0,
-                "star": 4,
-                "image": "Ningguang2.png",
-                "logo": "Geo.png",
-                "name": "Ningguang",
-                "nation": "Liyue",
-                "weapon": "Catalyst",
-                "constellation": "Opus Aequilibrium",
-                "introduction": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile.",
-                "normal_attack": "Sparkling Scatter",
-                "video": "t_FQJkm37a8"
-            }
-        }
-        
-    ]
-    
-}
-    
-    
-    
+		"id": 0,
+		"characters": [{
+				"id": 0,
+				"name": "Kamisato Ayaka",
+				"logo": "Cryo.png",
+				"image": "Kamisato.png",
+				"color": {
+					"red": 131,
+					"green": 199,
+					"blue": 217
+				},
+				"info": {
+					"id": 0,
+					"star": 5,
+					"image": "Kamisato2.png",
+					"logo": "Cryo.png",
+					"name": "Kamisato Ayaka",
+					"nation": "Inazuma",
+					"weapon": "Sword",
+					"constellation": "Grus Nivis",
+					"introduction": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Dignified and elegant, wise and determined.",
+					"normal_attack": "Kamisato Art: Kabuki",
+					"video": "vsCO7C416bs"
+				}
+
+			},
+
+			{
+				"id": 1,
+				"name": "Hu Tao",
+				"logo": "Pyro.png",
+				"image": "HuTao.png",
+				"color": {
+					"red": 175,
+					"green": 96,
+					"blue": 71
+				},
+				"info": {
+					"id": 0,
+					"star": 5,
+					"image": "HuTao2.png",
+					"logo": "Pyro.png",
+					"name": "Hu Tao",
+					"nation": "Liyue",
+					"weapon": "Polearm",
+					"constellation": "Papilio Charontis",
+					"introduction": "Hu Tao is the 77th Director of the Wangsheng Funeral Parlor, a person vital to managing Liyue's funerary affairs.",
+					"normal_attack": "Secret Spear of Wangsheng",
+					"video": "qrH9vMZBwAk"
+				}
+			},
+			{
+				"id": 2,
+				"name": "Kaedehara Kazuha",
+				"logo": "Anemo.png",
+				"image": "Kaedehara.png",
+				"color": {
+					"red": 185,
+					"green": 242,
+					"blue": 209
+				},
+				"info": {
+					"id": 0,
+					"star": 5,
+					"image": "Kazuha2.png",
+					"logo": "Anemo.png",
+					"name": "Kaedehara Kazuha",
+					"nation": "Inazuma",
+					"weapon": "Sword",
+					"constellation": "Acer Palmatum",
+					"introduction": "A wandering samurai from Inazuma with a modest and gentle personality.",
+					"normal_attack": "Garyuu Bladework",
+					"video": "ST5v7-C3iDk"
+				}
+			},
+			{
+				"id": 3,
+				"name": "Fischi",
+				"logo": "Electro.png",
+				"image": "Fischi.png",
+				"color": {
+					"red": 142,
+					"green": 98,
+					"blue": 193
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Fischi2.png",
+					"logo": "Electro.png",
+					"name": "Fischi",
+					"nation": "Mondstadt",
+					"weapon": "Bow",
+					"constellation": "Corvus",
+					"introduction": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild.",
+					"normal_attack": "Bolts of Downfall",
+					"video": "3VtfVPCbNzk"
+				}
+			},
+			{
+				"id": 4,
+				"name": "Tartaglia",
+				"logo": "Hydro.png",
+				"image": "Tartaglia.png",
+				"color": {
+					"red": 70,
+					"green": 111,
+					"blue": 179
+				},
+				"info": {
+					"id": 0,
+					"star": 5,
+					"image": "Tartaglia2.png",
+					"logo": "Hydro.png",
+					"name": "Tartaglia",
+					"nation": "Snezhnaya",
+					"weapon": "Bow",
+					"constellation": "Monoceros Caeli ",
+					"introduction": "Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.",
+					"normal_attack": "Cutting Torrent",
+					"video": "3f2-EANyrNM"
+				}
+			},
+			{
+				"id": 5,
+				"name": "Ningguang",
+				"logo": "Geo.png",
+				"image": "Ningguang.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Ningguang2.png",
+					"logo": "Geo.png",
+					"name": "Ningguang",
+					"nation": "Liyue",
+					"weapon": "Catalyst",
+					"constellation": "Opus Aequilibrium",
+					"introduction": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile.",
+					"normal_attack": "Sparkling Scatter",
+					"video": "t_FQJkm37a8"
+				}
+			},
+			{
+				"id": 6,
+				"name": "Albedo",
+				"logo": "Geo.png",
+				"image": "Albedo.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 5,
+					"image": "Albedo2.png",
+					"logo": "Geo.png",
+					"name": "Albedo",
+					"nation": "Mondstadt",
+					"weapon": "Sword",
+					"constellation": "Princeps Cretaceus",
+					"introduction": "Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius.",
+					"normal_attack": "Favonius Bladework - Weiss",
+					"video": "EgnqSKptay"
+				}
+			},
+			{
+				"id": 7,
+				"name": "Amber",
+				"logo": "Pyro.png",
+				"image": "Amber.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Amber2.png",
+					"logo": "Pyro.png",
+					"name": "Amber",
+					"nation": "Mondstadt",
+					"weapon": "Bow",
+					"constellation": "Lepus",
+					"introduction": "A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius. Her amazing mastery of the glider has made her a three-time winner of the Gliding Championship in Mondstadt.",
+					"normal_attack": "Sharpshooter",
+					"video": "Go7SeJ-yOL4"
+				}
+			},
+			{
+				"id": 8,
+				"name": "Barbara",
+				"logo": "Hydro.png",
+				"image": "Barbara.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Barbara2.png",
+					"logo": "Hydro.png",
+					"name": "Barbara",
+					"nation": "Mondstadt",
+					"weapon": "Catalyst",
+					"constellation": "Crater",
+					"introduction": "The Deaconess of the Favonius Church and a shining starlet adored by all. Although the concept of a starlet is rather novel in a city of bards, the people of Mondstadt love Barbara nonetheless.",
+					"normal_attack": "Whisper of Water",
+					"video": "-_1I3-J56Iw"
+				}
+			},
+			{
+				"id": 9,
+				"name": "Beidou",
+				"logo": "Electro.png",
+				"image": "Beidou.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Beidou2.png",
+					"logo": "Electro.png",
+					"name": "Beidou",
+					"nation": "Liyue",
+					"weapon": "Claymore",
+					"constellation": "Crater",
+					"introduction": "Captain of the Crux, with quite the reputation in Liyue.",
+					"normal_attack": "Oceanborne",
+					"video": "ST5v7-C3iDk"
+				}
+			},
+			{
+				"id": 10,
+				"name": "Bennett",
+				"logo": "Pyro.png",
+				"image": "Bennett.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Bennett2.png",
+					"logo": "Pyro.png",
+					"name": "Bennett",
+					"nation": "Mondstadt",
+					"weapon": "Claymore",
+					"constellation": "Rota Calamitas",
+					"introduction": "One of the few young adventurers of the Mondstadt Adventurers' Guild, he is always plagued with inexplicable bad luck.",
+					"normal_attack": "Strike of Fortune",
+					"video": "HRksKER0Ies"
+				}
+			},
+			{
+				"id": 11,
+				"name": "Chongyun",
+				"logo": "Cryo.png",
+				"image": "Chongyun.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Chongyun2.png",
+					"logo": "Cryo.png",
+					"name": "Chongyun",
+					"nation": "Mondstadt",
+					"weapon": "Claymore",
+					"constellation": "Nubis Caesor",
+					"introduction": "An exorcist who roams the land with Liyue as his base of operations, evil spirits fleeing wherever he goes.",
+					"normal_attack": "Demonbane",
+					"video": "Ehup5mmF6JA"
+				}
+			},
+			{
+				"id": 12,
+				"name": "Diluc",
+				"logo": "Pyro.png",
+				"image": "Diluc.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 5,
+					"image": "Diluc2.png",
+					"logo": "Pyro.png",
+					"name": "Diluc",
+					"nation": "Mondstadt",
+					"weapon": "Claymore",
+					"constellation": "Noctua",
+					"introduction": "As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection.",
+					"normal_attack": "Tempered Sword",
+					"video": "1TfbiDo7N4k"
+				}
+			},
+			{
+				"id": 13,
+				"name": "Diona",
+				"logo": "Cryo.png",
+				"image": "Diona.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 4,
+					"image": "Diona2.png",
+					"logo": "Cryo.png",
+					"name": "Diona",
+					"nation": "Mondstadt",
+					"weapon": "Bow",
+					"constellation": "Feles",
+					"introduction": "The incredibly popular bartender of the Cat's Tail tavern, rising star of Mondstadt's wine industry, and the greatest challenger to its traditional powerhouses.",
+					"normal_attack": "Tempered Sword",
+					"video": "9cti_Dwd3Hc"
+				}
+			},
+			{
+				"id": 14,
+				"name": "Eula",
+				"logo": "Cryo.png",
+				"image": "Eula.png",
+				"color": {
+					"red": 177,
+					"green": 146,
+					"blue": 81
+				},
+				"info": {
+					"id": 0,
+					"star": 5,
+					"image": "Eula2.png",
+					"logo": "Cryo.png",
+					"name": "Eula",
+					"nation": "Mondstadt",
+					"weapon": "Bow",
+					"constellation": "Aphros Delos",
+					"introduction": "A rebellious descendant of the old aristocracy who is always out on the battlefield.",
+					"normal_attack": "Favonius Bladework - Edel",
+					"video": "fFHfbH8UrFE"
+				}
+			}
+		]
+
+	}
+
+
+
 ]
