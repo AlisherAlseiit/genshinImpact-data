@@ -291,30 +291,6 @@
 				}
 			},
 			{
-				"id": 12,
-				"name": "Diluc",
-				"logo": "Pyro.png",
-				"image": "Diluc.png",
-				"color": {
-					"red": 177,
-					"green": 146,
-					"blue": 81
-				},
-				"info": {
-					"id": 0,
-					"star": 5,
-					"image": "Diluc2.png",
-					"logo": "Pyro.png",
-					"name": "Diluc",
-					"nation": "Mondstadt",
-					"weapon": "Claymore",
-					"constellation": "Noctua",
-					"introduction": "As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection.",
-					"normal_attack": "Tempered Sword",
-					"video": "1TfbiDo7N4k"
-				}
-			},
-			{
 				"id": 13,
 				"name": "Diona",
 				"logo": "Cryo.png",
